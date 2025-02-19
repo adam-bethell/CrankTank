@@ -1,0 +1,7 @@
+name=Crank Tank
+author=Adam Bethell
+description=Jump in your tank and get on that crank!
+bundleID=com.adambethell.cranktank
+version=0.1.0
+buildNumber=10
+imagePath=images
